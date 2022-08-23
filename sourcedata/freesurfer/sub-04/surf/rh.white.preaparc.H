@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/FX/jG/MD5E-s505363--170f793d8f3386d547eb39c0af677faf.H/MD5E-s505363--170f793d8f3386d547eb39c0af677faf.H
+/annex/objects/MD5E-s505363--170f793d8f3386d547eb39c0af677faf.H

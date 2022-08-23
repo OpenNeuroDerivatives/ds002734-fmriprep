@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/02/Px/MD5E-s400--acd43671264f1108c86303f56051fddb.txt/MD5E-s400--acd43671264f1108c86303f56051fddb.txt
+/annex/objects/MD5E-s400--acd43671264f1108c86303f56051fddb.txt

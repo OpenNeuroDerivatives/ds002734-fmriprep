@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Jg/GJ/MD5E-s400--658d438a00308441edecb2484ae97be1.txt/MD5E-s400--658d438a00308441edecb2484ae97be1.txt
+/annex/objects/MD5E-s400--658d438a00308441edecb2484ae97be1.txt
